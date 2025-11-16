@@ -47,3 +47,5 @@ Draft syllabus:
 9)	Revise analysis based on feedback
 10)	Prepare presentations of final results
 11)	Present and discuss final results, 30 minutes per group (15-20 minute presentation + 10-15 minute discussion)
+
+Detailed session plan, relevant literature, and citations for data sources: https://docs.google.com/document/d/1efCjllM-G2gy68xyrc8r8kSCmvvnBMVoVAKLqxAVcCw/edit?tab=t.ehnr7y1fxq4m 
